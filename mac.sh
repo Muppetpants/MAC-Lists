@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #Description: Create lists of random MAC Addresses, redirects output to specified file name.
 #Usage: ./mac.sh <Countds>
