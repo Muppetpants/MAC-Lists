@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Description: Create lists of random MAC Addresses, redirects output to specified file name.
-#Usage: ./mac.sh <Countds>
+#Usage: ./mac.sh <Count>
 
 if [ $# -eq 0 ]
   then
